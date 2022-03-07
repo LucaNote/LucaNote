@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![LucaNote's github stats](https://github-readme-stats.vercel.app/api?username=LucaNote&count_private=true&show_icons=true&theme=default)
+
+I'm currently working on personal projects & finishing my bachelore degree in Applied Computer Science!
+
+Learning Java, Spring boot, ReactJS, NodeJS & Python.
+
+
 <!--
 **LucaNote/LucaNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
